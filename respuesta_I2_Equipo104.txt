@@ -9,3 +9,10 @@ a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 Sí. Siempre y cuando GAMMA haya actualizado previamente su fork con los cambios del repositorio original (BETA) y luego ALFA actualice su propio fork
+
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Sí. Siempre y cuando ALFA haya actualizado previamente su fork con los cambios del repositorio original (BETA) y luego GAMMA actualice su propio fork
+
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+No. Los cambios no se pierden si quiero actualizar el fork ya que github guarda los cambios.
