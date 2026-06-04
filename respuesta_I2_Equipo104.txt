@@ -8,4 +8,4 @@ a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
  		pull.
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
-No. Un fork está vinculado al repositorio del que fue creado originalmente; ALFA sólo puede actualizar su fork con los cambios del repositorio original
+Sí. Siempre y cuando GAMMA haya actualizado previamente su fork con los cambios del repositorio original (BETA) y luego ALFA actualice su propio fork
